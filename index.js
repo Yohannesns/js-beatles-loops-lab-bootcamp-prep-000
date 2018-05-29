@@ -12,7 +12,7 @@ function johnLennonFacts(fact){
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
- var i = 0;
+ var i = 0
  while(i < = facts.length){
   console.log( facts[i] + " !!!"
    i++
@@ -25,6 +25,6 @@ function johnLennonFacts(fact){
 //     array.push("I love the Beatles!")
 //     i = i + 1
 // } while(i <15 );
-// 
+//
 //   return array
 //   }
