@@ -20,9 +20,10 @@ function theBeatlesPlay(musicians,instruments){
 // }
 function iLoveTheBeatles(number){
   var array = [];
-  var i = 1
-  do{i++
+  var i = 0
+  do{
     array.push("I love the Beatles!")
+    i++
 
 } while(i <15)
 
